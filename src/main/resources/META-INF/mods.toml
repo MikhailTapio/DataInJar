@@ -1,0 +1,8 @@
+modLoader = "lowcodefml"
+loaderVersion = "[38,)"
+license = "All-Rights-Reserved"
+[[mods]]
+modId = "changethis"
+version = "1.0.0"
+displayName = "CHANGETHIS"
+description = ""
