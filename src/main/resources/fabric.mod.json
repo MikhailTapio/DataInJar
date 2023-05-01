@@ -10,11 +10,6 @@
   "contact": {},
   "license": "All-Rights-Reserved",
   "environment": "*",
-  "entrypoints": {
-    "main": [
-      "gg.kerberus.chosenorigins.a.ChosenOrigins"
-    ]
-  },
   "depends": {
     "fabricloader": "*",
     "minecraft": "*"
